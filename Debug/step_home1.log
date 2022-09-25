@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\vitalya\source\repos\step_home1\main.cpp(12,14): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\vitalya\source\repos\step_home1\main.cpp(15,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\vitalya\source\repos\step_home1\main.cpp(27,8): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\vitalya\source\repos\step_home1\main.cpp(40,19): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\vitalya\source\repos\step_home1\main.cpp(41,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  step_home1.vcxproj -> C:\Users\vitalya\source\repos\step_home1\Debug\step_home1.exe
